@@ -1,0 +1,23 @@
+title: Your own serverless blog!
+author: George Diavatis
+tags:
+  - AWS
+  - Serverless
+  - Blog
+  - Hexo
+  - Amazon S3
+categories: [Serverless, Blogging]
+date: 2019-05-17 18:48:00
+---
+
+## Your own serverless blog!
+
+### Overview
+In this post I will explain how you can run your own serverless blog using Hexo and Amazon S3.
+
+Hexo is a
+
+### What you need
+
+ - AWS Account
+ -
